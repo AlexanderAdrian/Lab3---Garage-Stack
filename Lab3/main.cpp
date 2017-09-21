@@ -191,7 +191,7 @@ int main()
 
 
 
-/* OUTPUT BELOW: */
+/* SAMPLE OUTPUT BELOW: */
 
 
 /* 
